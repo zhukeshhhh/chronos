@@ -1,0 +1,5 @@
+pyarrow
+pandas[pyarrow,performance]
+chronos-forecasting
+matplotlib
+mplcyberpunk
